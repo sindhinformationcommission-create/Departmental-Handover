@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Departmental Handover Tracker",
+  "description": "A tool to manage and track the handover of departments and public bodies to staff members, with PDF export capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
